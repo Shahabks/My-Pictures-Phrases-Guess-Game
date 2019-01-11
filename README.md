@@ -11,8 +11,25 @@ The game was built on the foundation of an AI and machine learning structure whi
                                                   How to run the program
                                               ===============================               
 
-To run the program, download and save the folder called "mypictest" on your computer, run "mypictest.exe". 
+To run the program, download and save the compressed folders called 
+
+                                                      2.7z
+                                                      3.7z
+                                                      4.7z
+                                                      5.7z
+and unzip them in a folder; called 
+
+                                                    "mypictest" 
+
+on your computer, and then run "mypictest.exe". 
 Please follow the instruction which will pop out when you run the program.
+
+                                              ===============================
+                                                            NOTE
+                                              =============================== 
+
+                      The acoustic and language models files and dataset are large, so I was unable to download in my Github. 
+                      Please contact me to share the files with you 
 
 You need to save the pictures of your choice in a folder. There is a sample folder that you may use. Please feel free to download it called "test".
 
