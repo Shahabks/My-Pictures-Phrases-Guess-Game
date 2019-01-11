@@ -9,7 +9,7 @@ The game was built on the foundation of an AI and machine learning structure whi
 
                                               ===============================
                                                   How to run the program
-                                              ===============================                                                 
+                                              ===============================               
 
 To run the program, download and save the folder called "mypictest" on your computer, run "mypictest.exe". 
 Please follow the instruction which will pop out when you run the program.
