@@ -11,26 +11,29 @@ The game was built on the foundation of an AI and machine learning structure whi
                                                   How to run the program
                                               ===============================               
 
-To run the program, download and save the compressed folders called 
+To run the program on your computer, download and save the compressed folders called 
 
                                                       2.7z
                                                       3.7z
                                                       4.7z
                                                       5.7z
-and unzip them in a folder; called 
+then extract (unzip) them in a folder; called 
 
                                                     "mypictest" 
 
-on your computer, and then run "mypictest.exe". 
-Please follow the instruction which will pop out when you run the program.
+Before running "mypictest.exe" in the folder "mypictest" you need to add the acoustic and language models. To get the models please contact me at:
 
+                                                sabahi.s@mysol-gc.jp
+                                              
                                               ===============================
                                                             NOTE
                                               =============================== 
 
-                      The acoustic and language models files and dataset are large, so I was unable to download in my Github. 
+                      The acoustic and language models files are large, so I was unable to 
+                      upload them in my Github. 
                       Please contact me to share the files with you 
 
+ After downloading/extracting all the necessary installation files, please run "mypictest.exe" and follow the instruction which will pop out on the screen.
 You need to save the pictures of your choice in a folder. There is a sample folder that you may use. Please feel free to download it called "test".
 
                                               ===============================
