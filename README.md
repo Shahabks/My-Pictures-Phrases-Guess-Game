@@ -40,3 +40,7 @@ You need to save the pictures of your choice in a folder. There is a sample fold
                                                         Contact
                                               =============================== 
 Please contact me if you need further information or you wish to build in specific applications to the program
+
+                                                      Development
+
+This package was developed by MYOLUTIONS Lab in Japan for test. It is part of New Generation of Voice Recognition and Analysis Project in MYSOLUTIONS Lab. That is planned to enrich the functionality of My-Voice Analysis by adding more advanced functions.
