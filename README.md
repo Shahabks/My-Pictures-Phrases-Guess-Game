@@ -1,46 +1,52 @@
-# My-Pictures-Phrases-Guess-Game
-Using Spoken Language to play this game - developed on the shoulders of CNN and RNN - Early Stage
+# Speaking Guess-Game: Pictures-Phrases
 
-A simple game for checking prosody of speech and pronunciation ENGLISH now.
+Using Spoken Language to play this game - it was developed on the shoulders of CNN and RNN and it is at its Early Stage.
 
-Inputs could be either words and phrases or pictures.
+We designed this simple game to study prosody and pronunciation of words in English. It could be developed for other languages
 
-The game was built on the foundation of an AI and machine learning structure which is being developed for a speech and voice recognition system. The system was developed upon the shoulders of an acoustic and a natural language understanding model. We are working on our CNN Machine learning algorithm to add more languages and create new functions.
+Inputs could be either words, phrases or pictures.
 
-                                              ===============================
-                                                  How to run the program
-                                              ===============================               
+The game was built on the foundation of an AI and machine learning structure which is being developed for an analytic speech and voice system. The system was developed upon the shoulders of an acoustic and a natural language understanding model. We are working on our CNN Machine learning algorithm to add more languages and create new functions.
 
-To run the program on your computer, download and save the compressed folders called 
+## How to run the program
+To run the program on your computer, download and save the compressed file called 
 
-                                                      2.7z
-                                                      3.7z
-                                                      4.7z
-                                                      5.7z
-then extract (unzip) them in a folder; called 
+                                                     mypicgame.7z
+                                                      
+then extract (unzip) it in a folder; called 
 
-                                                    "mypictest" 
+                                                    "mypicgame" 
 
-Before running "mypictest.exe" in the folder "mypictest" you need to add the acoustic and language models. To get the models please contact me at:
+After downloading/extracting all the necessary installation files, you need to save the pictures of your choice in a folder on your machine (computer) if you wish to play the Picture-Guess-Game. If you wish to play the Phrase-Guess-Game you won't need to create the picture folder. In the My-Pictures-Phrases-Guess-Game repository (master), there is a sample folder contains some pictures that you may use the pictures. Please feel free to download them. The folder is called "test" and its pictures are not subject to any copyright limitations. 
 
-                                                sabahi.s@mysol-gc.jp
-                                              
-                                              ===============================
-                                                            NOTE
-                                              =============================== 
+Now the game is almost ready; launch it by clicking 
 
-                      The acoustic and language models files are large, so I was unable to 
-                      upload them in my Github. 
-                      Please contact me to share the files with you 
+                                                    "mypicgame.exe" 
 
- After downloading/extracting all the necessary installation files, please run "mypictest.exe" and follow the instruction which will pop out on the screen.
-You need to save the pictures of your choice in a folder. There is a sample folder that you may use. Please feel free to download it called "test".
+and follow the instruction which will pop out on the screen. 
+                                                
+### How the game starts
 
-                                              ===============================
-                                                        Contact
-                                              =============================== 
+After hitting "mypicgame.exe", a message on the Windows console will appear which reads: 
+
+           We are going to make and play a small game that picks a random word, phrase or picture:
+          +
+           OPTION-1) you could upload seven pictures of your choice along with the associated names with them to 
+                             your computer,
+          +
+           OPTION-2) You could enter six phrases or words of your choice.
+          +
+          +
+          Then you would give the player three attempts to guess the associated name with the picture, the phrase 
+          or the word.
+          +
+          Type WORDS(all Capital)for entering phrases or words - Type PIC to enter pictures:
+
+### Contact
+
 Please contact me if you need further information or you wish to build in specific applications to the program
+                                                     sabahi.s@mysol-gc.jp
+                                                      
+## Development
 
-                                                      Development
-
-This package was developed by MYOLUTIONS Lab in Japan for test. It is part of New Generation of Voice Recognition and Analysis Project in MYSOLUTIONS Lab. That is planned to enrich the functionality of My-Voice Analysis by adding more advanced functions.
+This package was developed by MYSOLUTIONS Lab in Japan for a test. It is part of the New Generation of Voice Recognition and Analysis Project in MYSOLUTIONS Lab. That is planned to enrich the functionality of our My-Voice Analysis by adding more advanced functions.
