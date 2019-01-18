@@ -9,7 +9,7 @@ Inputs could be either words, phrases or pictures.
 The game was built on the foundation of an AI and machine learning structure which is being developed for an analytic speech and voice system. The system was developed upon the shoulders of an acoustic and a natural language understanding model. We are working on our CNN Machine learning algorithm to add more languages and create new functions.
 
 ## How to run the program
-To run the program on your computer, download and save the compressed file called 
+To run the program on your computer, in the releases please download and save the compressed file called 
 
                                                      mypicgame.7z
                                                       
